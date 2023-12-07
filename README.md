@@ -7,19 +7,24 @@ Influenzzy aims to streamline influencer marketing and campaign management using
 •	Bidding system for influencers to propose campaigns
 •	Centralized dashboard for collaborations
 •	Analytics on ROI and leaderboards
+
 Built on open source technologies to be scalable, interoperable and extensible.
 
 **Documentation**
 Project documentation is maintained in the wiki:
+
 •	Architecture
 •	APIs
 •	Database schema
 •	Development guide
+
 **Technologies**
 
 **Backend**
 •	Node.js
+
 •	Express
+
 •	MongoDB
 
 **Frontend**
