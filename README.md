@@ -1,4 +1,5 @@
 **Influenzzy**
+
 A marketplace platform connecting social media influencers with brands for collaborative marketing campaigns. Powered by AI assistants to optimize matches and campaigns.
 
 **Overview**
