@@ -1,5 +1,6 @@
 **Influenzzy**
 A marketplace platform connecting social media influencers with brands for collaborative marketing campaigns. Powered by AI assistants to optimize matches and campaigns.
+
 **Overview**
 
 Influenzzy aims to streamline influencer marketing and campaign management using:
@@ -22,9 +23,7 @@ Project documentation is maintained in the wiki:
 
 **Backend**
 •	Node.js
-
 •	Express
-
 •	MongoDB
 
 **Frontend**
