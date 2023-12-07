@@ -1,2 +1,2 @@
 # Influenzzy
-AI Powered social media influencer marketing platform - marketplace for brands &amp; influencers
+	Influenzzy is an AI-powered social media influencer marketing platform that connects brands with influencers for collaborative campaigns.
